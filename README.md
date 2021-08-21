@@ -2,7 +2,7 @@
 
 X-ray Chest Analysis is a native application to diagnose chest
 diseases from the x-ray images using convolutional neural
-network, in FLutter. 
+network, in Flutter. 
 
 
 ## Demo
