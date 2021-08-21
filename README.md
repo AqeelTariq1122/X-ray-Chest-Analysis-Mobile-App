@@ -1,16 +1,35 @@
-# xrayanalysis
+# X-ray Chest Analysis Mobile App
 
-A Flutter Application to Predict Pathologies in Xray Images using Deep learning models 
+X-ray Chest Analysis is a native application to diagnose chest
+diseases from the x-ray images using convolutional neural
+network, in FLutter. 
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Demo
+![Slide2](https://user-images.githubusercontent.com/81378260/130337016-9343fa14-133d-467e-b580-8673be16dca0.jpg)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Features
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Process chest x-ray image
+- Diagnose pathologies in chest x-ray 
+- Reporting results in human-understandable form
+- Responsive application layout adaptable to all types of mobile screens
+
+
+  
+## Authors
+
+- [@AqeelTariq1122](https://www.github.com/AqeelTariq1122)
+
+  
+## Lessons Learned
+
+This app helps me to learn the following:
+
+1. Native app development in Flutter
+2. Image preprocessing in python
+3. Use of convolutional neural network models like VGG16
+5. TensorFLow serving
+3. Flask API
+4. Docker container
